@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/richa1617/npm/issues"
   },
-  "homepage": "https://github.com/richa1617/npm#readme"
+  "homepage": "https://github.com/richa1617/npm#readme",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  }
 }
