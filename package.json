@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/richa1617/npm#readme",
   "dependencies": {
-    "upper-case": "^2.0.2"
+    "upper-case": "^2.0.0"
   }
 }
