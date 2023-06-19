@@ -1,5 +1,5 @@
 {
-  "name": "learning-npm",
+  "name": "learning-npm-publish",
   "version": "1.0.0",
   "description": "\"Making my first package.json filr and exploring npm\"",
   "main": "index.js",
