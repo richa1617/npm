@@ -1,0 +1,19 @@
+{
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "\"Making my first package.json filr and exploring npm\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richa1617/npm.git"
+  },
+  "author": "Richa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richa1617/npm/issues"
+  },
+  "homepage": "https://github.com/richa1617/npm#readme"
+}
