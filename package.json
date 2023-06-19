@@ -4,7 +4,7 @@
   "description": "\"Making my first package.json filr and exploring npm\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/richa1617/npm#readme",
   "dependencies": {
-    "upper-case": "^2.0.0"
+    "upper-case": "^2.0.2"
   }
 }
